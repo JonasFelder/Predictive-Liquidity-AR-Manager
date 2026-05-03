@@ -1,4 +1,5 @@
-<img width="800" height="450" alt="2026-05-0320-14-01-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/94f6cf9a-211d-4e07-bc96-0a66af3e9808" />
+<img width="800" height="450" alt="2026-05-0320-14-01-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/f74d4ce2-8e80-41dc-8f5d-bd4d1b0549a6" />
+
 
 # Predictive Liquidity & AR Manager
 
