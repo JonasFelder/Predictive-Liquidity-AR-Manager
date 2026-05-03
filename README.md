@@ -1,3 +1,5 @@
+<img width="800" height="450" alt="2026-05-0320-14-01-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/94f6cf9a-211d-4e07-bc96-0a66af3e9808" />
+
 # Predictive Liquidity & AR Manager
 
 A financial-grade Power BI application powered by Python, SQL, and R to eliminate cashflow blind spots. While standard financial reports only show what has happened, this dashboard predicts what will happen. It exposes exactly where cash is stuck in the Accounts Receivable (AR) pipeline, calculates customer risk scores, and forecasts liquidity for the next 90 days.
