@@ -3,7 +3,8 @@
 
 
 
-https://github.com/user-attachments/assets/2f1b9102-6ac5-41e3-a03c-4c759fd5ecf6
+<img width="1920" height="1080" alt="Predictive Liquidity   AR (Accounts Receivable) Manager" src="https://github.com/user-attachments/assets/d66ee6d0-db4b-4760-8402-a10c05d71ed4" />
+
 
 
 
